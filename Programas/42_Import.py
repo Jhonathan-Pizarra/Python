@@ -1,0 +1,3 @@
+import dstajador
+
+dstajador.function()
